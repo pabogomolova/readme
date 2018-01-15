@@ -1,7 +1,5 @@
 # readme
-* purple
 ##Something about me 
-*purple
 \*\*cool stories\*\*
 1. I have two names
 2. Yes, my parents couldn`t decide which one is better for me
