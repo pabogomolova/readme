@@ -1,6 +1,6 @@
 # readme
-##Something about me 
-\*\*cool stories\*\*
+# Something about me
+\ cool stories \
 1. I have two names
 2. Yes, my parents couldn`t decide which one is better for me
 3. I can rumble like a cat
